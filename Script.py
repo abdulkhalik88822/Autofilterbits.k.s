@@ -25,7 +25,7 @@ class script(object):
     ABOUT_TXT = """<b>
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ​</a>
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/af_x_su'>ᴄʏʙᴇʀ ᠰ ᴛɢ​</a>
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/SAN_245'>ᴄʏʙᴇʀ ᠰ ᴛɢ​</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -208,7 +208,7 @@ Iғ ᴛʜᴇ ɢʀᴏᴜᴘ ᴄᴏᴘʏ ʀɪɢʜᴛ ɪꜱ ʟᴏꜱᴛ , ᴡʜᴇ�
 
 Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛʜᴇ ғɪʟᴇꜱ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ⇓⇓
 
-©ᴍʟᴢ ʙᴏᴛᴢ"""
+©SKSBACKUP1"""
     REPRT_MSG = """ Reported To Admin"""
 
     EARN_TXT = """
@@ -266,7 +266,7 @@ Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ғɪʟᴇ
 
-❣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʟᴢ ʙᴏᴛᴢ"""
+❣ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @SKSBACKUP1"""
 
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
