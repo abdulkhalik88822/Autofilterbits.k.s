@@ -25,8 +25,11 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/MLZ_BOTZ'),
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/MLZ_BOTZ_SUPPORT')
+                    InlineKeyboardButton('GROUP 1', url='https://t.me/+bZNsgHJa295jMjY1'),
+                    InlineKeyboardButton('GROUP 2', url='https://t.me/+j42EsbeJsHMwMzQ9')
+                  ],[
+                    InlineKeyboardButton('BACKUP CHANNEL', url='https://t.me/SKSBACKUP1'),
+                    InlineKeyboardButton('GROUP 3', url='https://t.me/+j42EsbeJsHMwMzQ9')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
@@ -135,7 +138,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [                         
-                          InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/CKTalkies')                         
+                          InlineKeyboardButton("❤️‍🔥 SUBSCRIBE ❤️‍🔥", url='https://youtube.com/@telegramwallah3835')                         
                          ]
                         ]
                     )
@@ -151,7 +154,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/CKTalkies')   
+                          InlineKeyboardButton("❤️‍🔥 SUBSCRIBE ❤️‍🔥", url='https://youtube.com/@telegramwallah3835')   
                          ]
                         ]
                     )
@@ -249,7 +252,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                          InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/CKTalkies')   
+                          InlineKeyboardButton("❤️‍🔥 SUBSCRIBE ❤️‍🔥", url='https://youtube.com/@telegramwallah3835')   
                          ]
                         ]
                     )
@@ -299,7 +302,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/CKTalkies')   
+              InlineKeyboardButton("❤️‍🔥 SUBSCRIBE ❤️‍🔥", url='https://youtube.com/@telegramwallah3835')   
              ]
               ]
        )
