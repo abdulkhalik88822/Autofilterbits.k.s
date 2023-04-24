@@ -29,7 +29,7 @@ async def start(client, message):
                     InlineKeyboardButton('GROUP 2', url='https://t.me/+j42EsbeJsHMwMzQ9')
                   ],[
                     InlineKeyboardButton('BACKUP CHANNEL', url='https://t.me/SKSBACKUP1'),
-                    InlineKeyboardButton('GROUP 3', url='https://t.me/+j42EsbeJsHMwMzQ9')
+                    InlineKeyboardButton('Subscribe', url='https://youtube.com/@telegramwallah3835')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
