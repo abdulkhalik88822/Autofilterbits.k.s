@@ -19,7 +19,7 @@ def is_enabled(value, default):
 SESSION = environ.get("SESSION", "Media_search")
 API_ID = int(environ.get("API_ID", "22882517"))
 API_HASH = environ.get("API_HASH", "fdbcfbaf87d91ca8f6cea9badd4f8876")
-BOT_TOKEN = environ.get("BOT_TOKEN", "6251010310:AAEjCFcPjJotlQyaUssYWKtzU9hEkl3AZtM")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6220379802:AAG46QrzQnkDtNDlPyl5eu-FGI_pzj-n2mw")
 
 
 # Bot settings
@@ -49,8 +49,8 @@ LOGIN_CHANNEL = int(login_channel) if login_channel and id_pattern.search(login_
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # Custom Chats
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001957648730'))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/sks_file')
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', ''))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', '')
 
 #VALUES
 HRK_APP_NAME = environ.get('HRK_APP_NAME', 'mybots')
@@ -71,7 +71,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # FSUB
-auth_channel = environ.get('AUTH_CHANNEL')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001191907396')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
 REQ_CHANNEL = environ.get("REQ_CHANNEL", False)
@@ -121,7 +121,7 @@ PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), Fals
 LANGUAGES = ["malayalam", "tamil", "english", "hindi", "telugu", "kannada"]
 
 # Delete Time
-DELETE_TIME = int(environ.get('DELETE_TIME', 600))
+DELETE_TIME = int(environ.get('DELETE_TIME', 300))
 MANUAL_TIME = int(environ.get('MANUAL_TIME', 20))
 DLT_TIME = int(environ.get('DLT_TIME', 20))
 
