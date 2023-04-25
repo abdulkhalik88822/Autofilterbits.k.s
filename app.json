@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Sanju1t85/S.K.S",
-    "repository": "https://github.com/Sanju1t85/S.K.S",
+    "website": "https://github.com/Zordubber/Public-Api-Autofilter",
+    "repository": "https://github.com/Zordubber/Public-Api-Autofilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
