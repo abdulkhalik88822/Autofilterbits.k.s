@@ -49,8 +49,8 @@ LOGIN_CHANNEL = int(login_channel) if login_channel and id_pattern.search(login_
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # Custom Chats
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', ''))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', '')
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001957648730'))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/sks_file')
 
 #VALUES
 HRK_APP_NAME = environ.get('HRK_APP_NAME', 'mybots')
